@@ -10,7 +10,7 @@ I Dont Evem Know Why I Just Saw Someone Use
 
 @bot.event
 
-So I Did <<>>
+So I Did <<->>
 
 Anyways This Is How To Install
 
