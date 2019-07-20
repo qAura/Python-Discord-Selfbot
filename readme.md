@@ -25,3 +25,7 @@ Now Go Into selfbot.py And Go To bot.run("ENTER TOKEN HERE", bot=False)
 And Paste Your Token
 
 Run The Batch File And Your Sorted I Also Used Ascii Cause Its Sexy!
+
+It Will Look Like
+
+<a href="https://ibb.co/8sjN7Fx"><img src="https://i.ibb.co/8sjN7Fx/unknown.png" alt="unknown" border="0"></a>
